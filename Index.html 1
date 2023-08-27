@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Tĩnh Dạ Tứ</h1>
+    <div>
+        <p>Sàng Tiền Minh Nguyệt Quang</p>
+        <p>Nghi Thị Địa Thượng Sương</p>
+        <p>Cử Đầu Vọng Minh Nguyệt</p>
+        <p>Đê Đầu Tư Cố Hương</p>
+        <strong>Dịch Thơ</strong>
+        <p>Ánh Trăng Chiếu Sáng Đầu Giường</p>
+        <p>Ngỡ Là Mặt Đất Phủ Sương Móc Dày</p>
+        <p>Ngẩng Đầu Ngắm Trăng Sáng </p>
+        <p>Cúi Đầu Nhớ Cố Hương</p>
+        <img src="./ly-bach-la-ai.jpg" width="  450" alt="ảnh Lý Bạch">
+    </div>
+    
+</body>
+</html>
