@@ -1,0 +1,34 @@
+!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com">
+    <link rel="stylesheet" href="https://fonts.googleapis.com">
+</head>
+
+
+<body>
+    <header class=" Menu_Icon">
+        <div class="Brand">SpaceLink</div>
+        <ul class="Banner_content">
+            <li class="Banner_content1">Home</li>
+            <li class="Banner_content1">Projects</li>
+            <li class="Banner_content1">About Us</li>
+            <li class="Banner_content1">Contact</li>
+        </ul>
+
+    </header>
+    <div class="img_1">
+        <img src="./img/Rectangle 1.png" alt="Phi Hành Gia">
+    </div>
+    <div class="font_big">
+        <h1> 404</h1>
+    </div>
+
+</body>
+
+</html>
