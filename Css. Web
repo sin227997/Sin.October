@@ -1,0 +1,32 @@
+.Brand {
+    font-size: 32px;
+    font-weight: 600px;
+    color: rgba(88, 29, 255, 1);
+    font-family: 'Poppins', sans-serif;
+    margin-top:  27px;
+    left: 70px;
+}
+.Banner_content{
+    font-size: 24px ;
+    font-weight: 500px ;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    text-align: center;
+}
+.img_1{
+    width: 1030px;
+    height: 726px;
+    text-align: center;
+    top: 1042px;
+    left: 661px;
+
+
+}
+.font_big{
+    font-size:200px ;
+    font-weight: 800px;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+    align-content: center;
+
+}
+
+
