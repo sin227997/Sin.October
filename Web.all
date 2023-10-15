@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -5,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link
         href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Pixelify+Sans&family=Poppins:wght@500&family=Tilt+Neon&family=Young+Serif&display=swap"
         rel="stylesheet">
@@ -16,37 +18,41 @@
         rel="stylesheet">
 </head>
 
-
 <body>
-    <header>
-        <div class=" Menu_Icon">
-            <div class="Brand">SpaceLink</div>
-            <ul class="Banner_1">
-                <li class="Ban_1"><a href="">Home</a></li>
-                <li class="Ban_1"><a href="">Projects</a></li>
-                <li class="Ban_1"><a href="">About Us</a></li>
-                <li class="Ban_1"><a href="">Contact</a></li>
-            </ul>
+    <section class="Header">
+        <img class="Img" src="./DV13.png" alt="">
+        <ul class="VT1">
+            <li class="VT2"><a href=""></a><i class='bx bxs-home-heart'></i>Trang Chủ</li>
+            <li class="VT2"><a href=""></a>Giới Thiệu</li>
+            <li class="VT2"><a href=""></a>Sản Phẩm</li>
+            <li class="VT2"><a href=""></a>Tin Tức</li>
+            <li class="VT2"><a href=""></a>Liên Hệ</li>
+
+        </ul>
+        <div class="But">
+            <div class="But_1">
+                <i class='bx bxl-facebook-circle'></i>
+            </div>
+            <div class=" But_1">
+                <i class='bx bxl-twitch'></i>
+            </div>
+            <div class="But_1">
+                <i class='bx bxl-instagram'></i>
+            </div>
+            <div class="But_1">
+                <i class='bx bxl-youtube'></i>
+            </div>
+
+
+
+
         </div>
 
 
-
-
-    </header>
-    <div class="Img1">
-        <div class="Number">404
-            <div class="Page">
-                <h1> Page Not Found</h1>
-            </div>
-            <div class="For">
-                <h2>Sorry, we couldn't find the page you're looking for </h2>
-            </div>
-            <div class="End">Back To Home</div>
-        </div>
-
-        <img class="Img1_Ex" src="./Img/Trái đất .jpg" alt="Hình Ảnh Trái Đất">
+    </section>
+    <div>
+        <img src="./banner-car4-1.jpg" alt="Hình Ảnh Xe">
     </div>
-
 
 </body>
 
