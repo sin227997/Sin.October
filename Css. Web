@@ -2,97 +2,60 @@
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-    background-color: #000;
+    
+    
 
 }
 html{
     font-size: 16px;
-}
-/* Header */
-.Menu_Icon{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding-top: 15px;
-    
-    
-
-}
-.Brand {
-    font-size: 32px;
-    font-weight: 600px;
-    color: rgb(11, 182, 182);
+    scroll-behavior: smooth;
     font-family: 'Josefin Sans', sans-serif;
-    padding-left: 20px;
 }
-.banner_1{ 
+ul,ol,li{
+    list-style: none;
+}
+.Header{
+    background-color: black;
+    height: 75px;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    
+}
+.Img{
+    padding: 15px;
+    padding-left: 60px;
+    background-color: transparent;
+}
+.VT1{
+    color: aliceblue;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    list-style: none;
-    padding-right: 100px ;
-    
+}
+.VT2{
+    padding: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    display: inline;
 
    
 }
-.Ban_1 > a {
-    font-size: 18px;
-    display: inline-flex;
-    padding: 15px;
-    color:#E9E9E9 ;
-    font-family: 'Pixelify Sans', sans-serif;
-    
-    
-
-}
-/* Body */
-
-.Img1{
+.But{
+    background-color: transparent;
+    color: aliceblue;
+    font-weight: 800;
+    font-size: 25px;
     display: flex;
+    align-items: center;
     justify-content: space-between;
     
+    
+    
+    
 
 }
-.Img1_Ex{
-    height: 750px;
-    width: 600px;
-}
-.Number{
-    color: #F3F3F3;
-    font-size: 200px;
-    font-weight: 500;
-    font-family: 'Pixelify Sans', sans-serif;
-    padding-top: 100px;
-    padding-left: 70px;
-    text-align: left;
+.But_1{
+    padding: 20px;
+    
 
 }
-.Page{
-    color: #F3F3F3;
-    font-size: 35px;
-    font-weight: 300;
-    font-family: 'Josefin Sans', sans-serif;
-    padding-top: 40px;
-    text-align: left;
-}
-.For{
-    color: #F3F3F3;
-    font-size: 18px;
-    font-weight: 100;
-    font-family: 'Josefin Sans', sans-serif;
-    padding-top: 40px;
-    text-align: left;
-}
-.End{
-    color: #F3F3F3;
-    font-size: 18px;
-    font-family: 'Orbitron', sans-serif;
-    padding-top: 50px;
-    color: rgba(14, 167, 194, 0.623);
-    font-weight: 800;
-
-
-
-}
-
-
