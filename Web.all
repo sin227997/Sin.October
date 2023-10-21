@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="./web.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <link
         href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Pixelify+Sans&family=Poppins:wght@500&family=Tilt+Neon&family=Young+Serif&display=swap"
@@ -16,43 +16,106 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Orbitron&family=Pixelify+Sans&family=Poppins:wght@500&family=Tilt+Neon&family=Young+Serif&display=swap"
         rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playpen+Sans&display=swap" rel="stylesheet">
 </head>
 
 <body>
     <section class="Header">
-        <img class="Img" src="./DV13.png" alt="">
-        <ul class="VT1">
-            <li class="VT2"><a href=""></a><i class='bx bxs-home-heart'></i>Trang Chủ</li>
-            <li class="VT2"><a href=""></a>Giới Thiệu</li>
-            <li class="VT2"><a href=""></a>Sản Phẩm</li>
-            <li class="VT2"><a href=""></a>Tin Tức</li>
-            <li class="VT2"><a href=""></a>Liên Hệ</li>
+        <button class="Img1">Broccoli</button>
 
-        </ul>
-        <div class="But">
-            <div class="But_1">
-                <i class='bx bxl-facebook-circle'></i>
-            </div>
-            <div class=" But_1">
-                <i class='bx bxl-twitch'></i>
-            </div>
-            <div class="But_1">
-                <i class='bx bxl-instagram'></i>
-            </div>
-            <div class="But_1">
-                <i class='bx bxl-youtube'></i>
-            </div>
+        <div class="VTV">
+
+            <ul class="VT1">
+                <li class="VT2"><a href=""></a><i class='bx bxs-home-heart'></i>Trang Chủ</li>
+                <li class="VT2"><a href=""></a>Giới Thiệu</li>
+                <li class="VT2"><a href=""></a>Sản Phẩm</li>
+                <li class="VT2"><a href=""></a>Tin Tức</li>
+                <li class="VT2"><a href=""></a>Liên Hệ</li>
+
+            </ul>
+            <div class="But">
+                <div class="But_1">
+                    <i class='bx bxl-facebook-circle'></i>
+                </div>
+                <div class=" But_1">
+                    <i class='bx bxl-twitch'></i>
+                </div>
+                <div class="But_1">
+                    <i class='bx bxl-instagram'></i>
+                </div>
+                <div class="But_1">
+                    <i class='bx bxl-youtube'></i>
+                </div>
 
 
 
+
+            </div>
+        </div>
+
+
+
+    </section>
+    <div class=" Yet">
+        <img class="Img" src="./img/hbanner1_bg_down.jpg" alt="hbanner">
+
+
+
+    </div>
+    <div class="VG">
+        <div class="VGC">
+            <div>
+                <h1> Giới Thiệu </h1>
+            </div>
+            <img class="VG_Img" src="./img/hab_center_img.jpg" alt="Hab">
+        </div>
+        <div class="VHH">
+            <ul class="VHH_1">
+                <li class="Icon_1">
+                    <img src="./img/hab_left_icon_1.png" alt="Icon">
+                    <h3> 100% Tự Nhiên</h3>
+                    We care about what you eat. We want to produce food which nourishes your body and tastes delicious.
+                </li>
+                <li class="Icon_1">
+                    <img src="./img/hab_left_icon_2.png" alt="Icon">
+                    <h3>Luôn Tươi Mới</h3>
+                    We care about what you eat. We want to produce food which nourishes your body and tastes delicious.
+                </li>
+                <li class="Icon_1">
+                    <img src="./img/hab_right_icon_1.png" alt="Icon">
+                    <h3>Sản phẩm tự nhiên</h3>
+                    We care about what you eat. We want to produce food which nourishes your body and tastes delicious.
+                </li>
+                <li class="Icon_1">
+                    <img src="./img/hab_right_icon_2.png" alt="Icon">
+                    <h3>Chất lượng tốt nhất</h3>
+                    We care about what you eat. We want to produce food which nourishes your body and tastes delicious.
+                </li>
+            </ul>
 
         </div>
 
 
-    </section>
-    <div>
-        <img src="./banner-car4-1.jpg" alt="Hình Ảnh Xe">
+
+
     </div>
+    <div class="Urt">
+        <h3 class=" Wrap"> Thực Phẩm Tốt</h3>
+        <h1 class=" Rat "> Cảm Xúc Vui</h1>
+        <p class=" Rat_1"> Thực Phẩm Của Chúng Tôi Luôn Tươi Mới , Không Chất Độc Hại </p>
+        <button class="GKK"> Xem Ngay</button>
+
+
+    </div>
+    <div>
+        <h2>Sản Phẩm Của Chúng Tôi</h2>
+        <button>Hoa Quả</button>
+        <button>Thực Phẩm Khô</button>
+        <button>Rau Hữu Cơ</button>
+    </div>
+
+
+
 
 </body>
 
